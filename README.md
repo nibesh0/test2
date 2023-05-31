@@ -1,4 +1,4 @@
-CometConnect
+#CometConnect
 
 CometConnect is a secure and fast peer-to-peer (P2P) communication project designed for Ubuntu. It utilizes PortAudio, OpenCV, and PThreads to enable efficient and reliable communication between peers.
 Description
